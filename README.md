@@ -3,13 +3,16 @@
 ## Robot Design
 
 ### Front View
-![Front View](front.png)
+<img width="677" height="516" alt="front png" src="https://github.com/user-attachments/assets/d2dd3cea-ed96-4a74-8795-d7b3b922dc6c" />
+
 
 ### Side View
-![Side View](side.png)
+<img width="641" height="533" alt="side png" src="https://github.com/user-attachments/assets/bf386000-193e-4c47-ab15-1255944ec67e" />
+
 
 ### Isometric View
-![Isometric View](isometric.png)
+<img width="578" height="397" alt="isometric png" src="https://github.com/user-attachments/assets/cd4af9d4-4f8a-4826-93bc-3cf3b62766ec" />
+
 
 ---
 
