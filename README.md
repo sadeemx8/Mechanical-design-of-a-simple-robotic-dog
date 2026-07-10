@@ -3,13 +3,13 @@
 ## Robot Design
 
 ### Front View
-*(Insert front view image here)*
+![Front View](front.png)
 
 ### Side View
-*(Insert side view image here)*
+![Side View](side.png)
 
 ### Isometric View
-*(Insert isometric view image here)*
+![Isometric View](isometric.png)
 
 ---
 
