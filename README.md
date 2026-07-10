@@ -16,6 +16,12 @@
 
 ---
 
+## Project Objective
+
+The objective of this project is to design a simple four-legged robotic dog with a stable mechanical structure. The design focuses on the body structure, movable joints, torque estimation, motor selection, and a stable walking mechanism for future robotic applications.
+
+---
+
 ## Features
 - Four-legged robotic dog
 - Front robotic arm
@@ -23,6 +29,16 @@
 - Center of mass analysis
 - Torque calculation
 - Stable crawl gait
+
+---
+
+## Main Components
+
+- Rectangular main body (Chassis)
+- Four robotic legs
+- Neck section
+- Front robotic arm
+- Revolute joints
 
 ---
 
@@ -48,5 +64,21 @@
 
 ---
 
+## Walking Method
+
+The robot uses a crawl gait, where one leg moves at a time while the other three legs remain in contact with the ground. This walking method provides excellent stability and balance during movement.
+
+---
+
+## Expected Mechanical Problems
+
+- Joint wear due to repeated motion
+- Loosening of screws or pins
+- Reduced stability on uneven surfaces
+- Increased joint friction
+- Reduced performance with heavier payloads
+
+---
+
 ## 👩‍💻 Author
-Sadeem Talal Alharthi
+Eng.Sadeem Talal Alharthi
